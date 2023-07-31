@@ -1,0 +1,156 @@
+@media screen   and (max-width: 1340px) {
+    .navbar-top .content-right p{
+        display:none;
+    }
+    .navbar-top .content-right ul{
+        width: fit-content;
+    }
+}
+
+@media screen   and (max-width: 1212px)  {
+    .navbar-right .list{
+        display: none;
+    }
+    .menu{
+        display: block;
+        margin-left: 10px;
+    }
+    .navbar-left{
+        width: 25%;
+    }
+        .choose-us .content .item p {
+    font-size: 15px;
+    color: #888;
+    margin: 18px;
+}
+
+.about-img img {
+    width: 109%;
+   margin-top:173px;
+   margin-left: -24px;
+   
+}
+.patients .item img {
+    width: 150%;
+}
+}
+
+@media screen and (max-width: 800px) {
+    .about-img{
+        width:100%;
+        margin-bottom: 20px;
+    }
+    .about-content{
+        width: 100%;
+        margin-top: 0;
+    }
+    .footer-top .item{
+        width: 50%;
+        margin-bottom: 20px;
+    }
+ 
+
+}
+
+/* //less 760 */
+@media (max-width: 760px)    {
+    .navbar-top{
+        display: none;
+    }
+    .navbar-left{
+        width: 35%;
+    }
+    .numbers-item{
+        width: 50%;
+        margin-bottom: 20px;
+    }
+    .choose-us .content .item{
+        width: 50%;
+        margin-bottom: 20px;
+    }
+    .patients .item{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .testimonials .content .item{
+        width:100%;
+        margin-bottom: 20px;
+    }
+    .footer-top .item{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+}
+
+
+@media screen and (max-width: 580px) {
+    .footer-bottom p{
+        float: unset;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .footer-bottom .list{
+        float: unset;
+        text-align: center;
+    }
+    .footer-bottom .list .item{
+        float: unset;
+        display: inline-block;
+    }
+
+}
+/* //less 500 */
+@media  (max-width: 500px) {
+    .navbar-left{
+        width: 35%;
+        
+    }
+
+    h1{
+        font-size: 25px;
+        
+    }
+
+    h2{
+        font-size: 20px;
+        
+       
+        
+    }
+
+    /* start header  */
+    .header .header-btn a{
+        padding: 8px
+    }
+    .header p{
+        width: 180px;
+    }
+    .header{
+        height: 100vh;
+    }
+      /* end header  */
+
+    .numbers-item{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .choose-us .content .item{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .about-content .list .item {
+        font-size: 14px;
+    }
+
+    .footer-top p {
+        margin-bottom: 20px;
+        font-size: 14px;
+        line-height: 1.86em;
+        width: 121%;
+    }
+}
+
