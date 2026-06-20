@@ -53,9 +53,9 @@ The website features a stunning hero section, about us, statistics numbers, serv
     </tr>
     <tr>
       <td align="center"><strong>Landing Page</strong></td>
-      <td align="center"><img src="assets/img/all-screen/pc.png" alt="Desktop View" width="300"/></td>
-      <td align="center"><img src="assets/img/all-screen/i pad pro.png" alt="iPad Pro View" width="150"/></td>
-      <td align="center"><img src="assets/img/all-screen/i phone 14 pro max.png" alt="iPhone 14 Pro Max View" width="80"/></td>
+      <td align="center"><img src="assets/all-screen/pc.png" alt="Desktop View" width="300"/></td>
+      <td align="center"><img src="assets/all-screen/i%20pad%20pro.png" alt="iPad Pro View" width="150"/></td>
+      <td align="center"><img src="assets/all-screen/i%20phone%2014%20pro%20max.png" alt="iPhone 14 Pro Max View" width="80"/></td>
     </tr>
   </table>
 </div>
